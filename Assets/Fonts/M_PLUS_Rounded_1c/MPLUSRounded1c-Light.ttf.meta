@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ea3e4953197990f48a807355c4295495
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rounded Mplus 1c
+  fontNames:
+  - Rounded Mplus 1c
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d7c814a1bbf084641aa2faa656e24c9d, type: 3}
+  - {fileID: 12800000, guid: 79bb9f0367b7abd449dbb6af7f5bf82a, type: 3}
+  - {fileID: 12800000, guid: c84752d8a363d1640a0e79b628496273, type: 3}
+  - {fileID: 12800000, guid: 3705e2bb1410e7949a97f561fb012702, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

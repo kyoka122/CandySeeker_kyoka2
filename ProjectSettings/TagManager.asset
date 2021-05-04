@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - boad
+  - Field
+  - Piece
+  - Line
+  - Edge
   layers:
   - Default
   - TransparentFX
@@ -14,13 +18,13 @@ TagManager:
   - UI
   - 
   - 
+  - PlayerSettingsPanel
+  - GameSystemPanel
+  - GameboardPanel1
+  - GameboardPane2
+  - GameboardPanel
+  - image
   - background
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - 
   - 
   - 
@@ -44,4 +48,7 @@ TagManager:
     locked: 0
   - name: boad
     uniqueID: 2979774069
+    locked: 0
+  - name: background
+    uniqueID: 44996379
     locked: 0

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{21F27E44-9353-8D72-95AF-5A8132D6E4F3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities", "PhotonUnityNetworking.Utilities.csproj", "{FBBD917F-F8B2-9120-A942-DC697075A843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{21F27E44-9353-8D72-95AF-5A8132D6E4F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonChat", "PhotonChat.csproj", "{EF472D05-9C42-6956-39EB-9130A17A6559}"
 EndProject
@@ -23,14 +23,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FBBD917F-F8B2-9120-A942-DC697075A843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBBD917F-F8B2-9120-A942-DC697075A843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBBD917F-F8B2-9120-A942-DC697075A843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBD917F-F8B2-9120-A942-DC697075A843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F27E44-9353-8D72-95AF-5A8132D6E4F3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EF472D05-9C42-6956-39EB-9130A17A6559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF472D05-9C42-6956-39EB-9130A17A6559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF472D05-9C42-6956-39EB-9130A17A6559}.Release|Any CPU.ActiveCfg = Release|Any CPU
